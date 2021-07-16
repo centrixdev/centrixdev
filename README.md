@@ -6,7 +6,7 @@
 👋 Hi, I'm Dominik, a passionate developer and designer from germany 🚀.
  
  
-[![Dominiks's github stats](https://github-readme-stats.vercel.app/api?username=dominikrsmn&count_private=true&show_icons=true&theme=radical)](https://github.com/dominikrsmn)
+[![Dominiks's github stats](https://github-readme-stats.vercel.app/api?username=centrixdev&count_private=true&show_icons=true&theme=radical)](https://github.com/centrixdev)
  
   
 ### About
