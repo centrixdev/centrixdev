@@ -12,9 +12,7 @@
   
 ### About
 
--  **Learning :** Some nice stuff :fire:   
--  **Languages :** Java, JavaScript, HTML, CSS
--  **Hobbies :** Piano :musical_keyboard: & Music :headphones:
+-  **Languages :** HTML, CSS, JS, JSX (React), Java
 -  **Contact me :** [dominik.rsmn@gmail.com](mailto:dominik.rsmn@gmail.com)
 
 
