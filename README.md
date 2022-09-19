@@ -12,7 +12,7 @@
   
 ### About
 
--  **Languages :** HTML, CSS, JS, JSX (React), Java
+-  **Languages :** Swift, Typescript
 -  **Contact me :** [dominik.rsmn@gmail.com](mailto:dominik.rsmn@gmail.com)
 
 
